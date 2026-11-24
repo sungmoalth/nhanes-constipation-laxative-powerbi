@@ -4,7 +4,8 @@ Exploratory dashboard on how reported constipation frequency relates to laxative
 
 **Goal of this repo:** demonstrate **Power BI** skills (data model, measures, matrix/cross-tabs, KPI cards, multi-page report) on a real public health survey — including the unglamorous steps of getting NHANES from `.xpt` into an analysis-ready table.
 
----
+### Overview
+![Overview](overview_bowel.png)---
 
 ## Business question
 
